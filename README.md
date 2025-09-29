@@ -9,9 +9,17 @@ This is a test to get used to markdown
 </picture>
 
 
+<details>
+<summary> Best ways to do something</summary>
 
-| Rank | THING-TO-RANK |
+ | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|     Number one|
-|     2|     Number 1  |
-|     3|      One      |
+|     1|Placeholder    |
+|     2|Placeholder 2  |
+|     3|Placeholder 3  |
+
+
+ 
+</details>
+
+
