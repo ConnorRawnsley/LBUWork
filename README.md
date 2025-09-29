@@ -12,6 +12,6 @@ This is a test to get used to markdown
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1|     Number one|
+|     2|     Number 1  |
+|     3|       One     |
