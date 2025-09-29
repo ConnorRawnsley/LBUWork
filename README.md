@@ -14,4 +14,4 @@ This is a test to get used to markdown
 |-----:|---------------|
 |     1|     Number one|
 |     2|     Number 1  |
-|     3|       One     |
+|     3|      One      |
